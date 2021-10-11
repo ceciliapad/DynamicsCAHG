@@ -1,6 +1,6 @@
 # DynamicsCAHG
 
-This repository contains the data and code to reproduce the analyses reported in **Padilla-Iglesias et al.** "Population inter-connectivity over the past 120,000 years explains distribution and diversity of Central African hunter-gatherers". Preptint currently available in BioRxiv [here](https://www.biorxiv.org/content/10.1101/2021.06.21.449204v1)
+This repository contains the data and code to reproduce the analyses reported in **Padilla-Iglesias et al.** "Population inter-connectivity over the past 120,000 years explains distribution and diversity of Central African hunter-gatherers". Preprint currently available in BioRxiv [here](https://www.biorxiv.org/content/10.1101/2021.06.21.449204v1)
 
 ## Contents:
 
@@ -17,4 +17,4 @@ This repository contains the data and code to reproduce the analyses reported in
 
 **Additional files:**
 
-- Biome_plots: Plots of biome distribution in our area of study every 1000 or 2000 time slices according to [Beyer et al. 2020](https://www.nature.com/articles/s41597-020-0552-1)
+- Biome_plots: Plots of biome distribution in our area of study every 1,000 or 2,000 time slices according to [Beyer et al. 2020](https://www.nature.com/articles/s41597-020-0552-1)
