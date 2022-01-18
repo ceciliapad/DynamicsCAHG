@@ -17,4 +17,4 @@ This repository contains the data and code to reproduce the analyses reported in
 
 **Additional files:**
 
-- Biome_plots: Plots of biome distribution in our area of study every 1,000 or 2,000 time slices according to [Beyer et al. 2020](https://www.nature.com/articles/s41597-020-0552-1)
+- Biome_plots_cores: Plots of biome distribution in our area of study every 1,000 or 2,000 time slices according to [Beyer et al. 2020](https://www.nature.com/articles/s41597-020-0552-1)
